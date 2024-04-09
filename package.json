@@ -1,0 +1,20 @@
+{
+  "name": "api-project",
+  "version": "1.0.0",
+  "description": "1) Using NodeJS to create javascript server side applications\r 2) Using Express JS to create different routes for our API\r 3) Using Postman to fetch some requests from the API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
